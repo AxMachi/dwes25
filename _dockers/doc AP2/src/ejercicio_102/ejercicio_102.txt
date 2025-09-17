@@ -1,0 +1,36 @@
+Ejercicio 102¶
+Busca tres ofertas de trabajo de desarrollo de software en Infojobs en la Comunidad Valenciana que citen PHP y anota:
+
+Empresa: WeHunt España
+Puesto: Backend Developer (PHP + Vue)
+Frameworks PHP: Laravel o Symfony
+Requisitos: Mínimo 3 años de experiencia en desarrollo de software
+            Conocimientos avanzados en PHP (Laravel y/o Symfony)
+            Dominio de JavaScript y Vue3
+           Experiencia con MySQL y MongoDB
+            Experiencia trabajando con APIs RESTful
+            Acostumbrado a trabajar bajo metodologías ágiles
+Sueldo: Hasta 35.000€
+Enlace a la oferta: https://www.linkedin.com/jobs/search/?currentJobId=4300708189&f_PP=105512687&keywords=php&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R
+
+Empresa: Consiga Soluciones
+Puesto: Programador/a Backend PHP
+Frameworks PHP: Laravel
+Requisitos: 2+ años desarrollando en PHP (valorable experiencia directa con Laravel).
+            Conocimientos de MySQL y sistema de control de versiones (Git).
+            Capacidad para leer y optimizar código existente y consultas SQL.
+            Mentalidad de producto: calidad, seguridad y rendimiento.
+Sueldo:  Ordenador portátil y móvil de empresa
+Enlace a la oferta: https://www.linkedin.com/jobs/search/?currentJobId=114167893&keywords=php&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=114167893%2C4281807679%2C4299525824
+
+Empresa: Hays
+Puesto: PHP Developer
+Frameworks PHP: Symfony, Laravel, Slim y código Vanilla
+Requisitos: Más de 3 años de experiencia en desarrollo backend.
+            Dominio de PHP 8+ y frameworks como Symfony, Laravel, Slim y código Vanilla.
+            Experiencia con Docker en entornos distribuidos.
+            Conocimiento práctico de AWS
+            Testing y calidad: PHPUnit, PHPStan, SonarCloud.
+            Metodología ágil con enfoque DevOps y CI/CD.
+Sueldo: 35.000 € brutos/año
+Enlace a la oferta: https://www.linkedin.com/jobs/search/?currentJobId=4298599544&keywords=php&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=114167893%2C4281807679%2C4299525824

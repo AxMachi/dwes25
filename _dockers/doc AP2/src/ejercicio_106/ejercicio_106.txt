@@ -1,0 +1,6 @@
+Ejercicio 106
+
+Versión de PHP: PHP Version 8.2.29
+Loaded Configuration File: /usr/local/etc/php/php.ini
+memory_limit: 256M
+DOCUMENT_ROOT: /var/www/html
